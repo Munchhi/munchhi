@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://munchhi.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-12-13T16:03:27.877Z</updated>
+    <title>Monchhichi</title>
+    <updated>2021-12-14T08:26:05.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://munchhi.github.io"/>
     <link rel="self" href="https://munchhi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>像牡蛎一样，神秘、自给自足，而且孤独。</subtitle>
     <logo>https://munchhi.github.io/images/avatar.png</logo>
     <icon>https://munchhi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Monchhichi</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://munchhi.github.io/post/hello-gridea/</id>
